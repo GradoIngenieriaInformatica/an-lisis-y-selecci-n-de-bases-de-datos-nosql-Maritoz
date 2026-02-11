@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+CLAVE-VALOR | Servicio de autenticación que gestiona sesiones temporales con acceso ultrarrápido por clave.
