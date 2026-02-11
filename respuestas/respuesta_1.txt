@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+GRAFOS | Sistema de recomendaciones basado en relaciones entre productos, usuarios y patrones de compra.
